@@ -16,3 +16,5 @@ Charlie Fried Chicken Cafe V6 Change Log. Here's what we've added and fixed at C
 9/1/2017 (12:54 AM EST): Major Bug Fixes
 
 9/1/2017 (1:20 AM EST): Redesigned Music & Add Song UI.
+
+9/2/2017 (2:44 AM EST): Construction: Merchandise Store
